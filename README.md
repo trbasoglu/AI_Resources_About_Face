@@ -1,5 +1,3 @@
-# AI_Resources_About_Face
-
 ## Projeler
 - **[Finger Nail Segmentation](https://github.com/Golbstein/Fingernails-Segmentation)**
 - **[İmage Segmentation with Keras](https://github.com/divamgupta/image-segmentation-keras)**
