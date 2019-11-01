@@ -27,9 +27,15 @@ Challenge
 - **[Helen Veri Seti:](http://www.ifp.illinois.edu/~vuongle2/helen/)**Yüzde 194 farklı noktayı içeren bir veri setidir.
 - **[Helen veri seti ile alakalı github bağlantısı](https://github.com/zhfe99/helen)**
 - **[Helen veri setinin eğitimi](http://amroamroamro.github.io/mexopencv/opencv_contrib/facemark_kazemi_train2_demo.html#3)**
+- **[Helen paper](http://www.ifp.illinois.edu/~vuongle2/helen/eccv2012_helen_final.pdf)**
 - **[Yüz ile ilgili pek çok veri seti](http://www.face-rec.org/databases/)**
 - **[Yüz ile ilgili pek çok veri seti2](https://github.com/jian667/face-dataset)**
 - **[Ibug](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)**
 - **[Morph](https://uncw.edu/oic/tech/morph.html)**
+- **[Face-rec](http://www.face-rec.org/databases/)**
+- **[fwlw](https://wywu.github.io/projects/LAB/WFLW.html)**
 ## Terimler
 - Delaunay triangulation
+
+## Programlar
+- **[Face landmark Annotstion tool](https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool)**
